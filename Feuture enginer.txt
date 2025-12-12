@@ -1,0 +1,6 @@
+feuture engirer:
+1. numerk colum di difine
+2. handling outlier
+3. handling missing value
+4. scaling standarscaling
+5. pca
